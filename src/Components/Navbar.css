@@ -1,0 +1,28 @@
+
+.Navbar{
+padding: 2rem;
+margin: 0rem !important;
+background-color: rgb(102, 150, 245);
+color: white !important;
+display: flex;
+justify-content: space-between;
+
+list-style-type: none;
+position: fixed;
+top: 0;
+width: 94%;
+
+
+
+}
+.cont {
+    color: bisque;
+}
+.color{
+    color: rgb(255, 255, 255);
+
+}
+.active {
+  
+    color: rgb(14, 12, 13);
+}
